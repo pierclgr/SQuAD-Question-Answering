@@ -1,0 +1,12 @@
+{
+    "pretrained_model": "albert-base-v1",
+    "type": "enhanced2",
+    "batch_size": 16,
+    "num_epochs": 1,
+    "learning_rate": 1e-4,
+    "dropout_rate": 0.3,
+    "verbose": true,
+    "save_experiment": true,
+    "val_split": 0.15,
+    "test_split": 0.15
+}
